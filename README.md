@@ -48,6 +48,23 @@ Ask Claude things like "can I paste this into ChatGPT," "set up AI rules for my 
 
 Built on Deloitte Insights, "The next tech infrastructure advantage is intelligence orchestration," 21 August 2026, adapted for subscription-only operators.
 
+## Troubleshooting
+
+| Problem | Fix |
+|---|---|
+| The skill does not kick in | Ask for it by name: "Use the ai-control-plane-solo skill to..." Then confirm the plugin is installed and enabled (in Claude Code, run `/plugin`). |
+| Claude describes a vendor setting that does not match what you see | Trust the settings page, not the answer. The skill is built to have you check the live page and record the date; vendors rename and move settings often. |
+| Claude cannot check a source or a settings page for you | Turn on web search in your Claude settings, or open the page yourself and paste the relevant text. Without a source, a fact stays unconfirmed. |
+| The CSV templates open as one long column | Import them into Google Sheets or Excel as comma-separated values instead of opening them in a text editor. |
+| You are not sure which data class something is | Ask the two sorting questions in `references/data-classes.md`. If it is still unclear, treat it as the more restrictive class or redact it first. |
+
+## Support
+
+| Need | Where |
+|---|---|
+| Bug, wrong behavior, or a question | Open an issue at https://github.com/Jjohnston70/ai-control-plane-solo/issues |
+| Security or privacy concern | Email jacob@truenorthstrategyops.com with "Security" in the subject; please do not open a public issue |
+
 ## License
 
 MIT. See `LICENSE`.
