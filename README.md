@@ -64,7 +64,7 @@ Built on Deloitte Insights, "The next tech infrastructure advantage is intellige
 
 | Need | Where |
 |---|---|
-| Bug, wrong behavior, or a question | Open an issue at https://github.com/Jjohnston70/ai-control-plane-solo/issues |
+| Bug, wrong behavior, or a question | Open an issue at https://github.com/Jjohnston70/small-business-ai-rules/issues |
 | Security or privacy concern | Email jacob@truenorthstrategyops.com with "Security" in the subject; please do not open a public issue |
 
 ## License
