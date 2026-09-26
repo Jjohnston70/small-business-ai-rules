@@ -1,5 +1,5 @@
 {
-  "name": "ai-control-plane-solo",
+  "name": "small-business-ai-rules",
   "version": "1.0.0",
   "description": "AI rules for a person or small business that runs on ChatGPT, Claude, Perplexity, or Gemini subscriptions: which tool gets which job, what data may go where, how accounts are locked down, how AI-shaped decisions are logged, and how to pull the plug.",
   "author": {

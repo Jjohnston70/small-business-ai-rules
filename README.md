@@ -1,8 +1,10 @@
-# AI Control Plane, Solo and Small Team Edition
+# Small Business AI Rules
 
 AI rules for a person or small business that runs on chat subscriptions (ChatGPT, Claude, Perplexity, Gemini, Copilot, NotebookLM) and nothing wired to an API.
 
-You still need a control plane. At your scale it is a one-page table, three settings pages, and a log sheet.
+You still need ground rules. At your scale they fit on a one-page table, three settings pages, and a log sheet.
+
+The skill inside is `ai-control-plane-solo`. Ask for it by that name if it does not kick in on its own.
 
 ## What it answers
 
