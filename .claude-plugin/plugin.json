@@ -1,0 +1,18 @@
+{
+  "name": "ai-control-plane-solo",
+  "version": "1.0.0",
+  "description": "AI rules for a person or small business that runs on ChatGPT, Claude, Perplexity, or Gemini subscriptions: which tool gets which job, what data may go where, how accounts are locked down, how AI-shaped decisions are logged, and how to pull the plug.",
+  "author": {
+    "name": "True North Data Strategies LLC",
+    "url": "https://truenorthstrategyops.com"
+  },
+  "homepage": "https://truenorthstrategyops.com",
+  "keywords": [
+    "ai-policy",
+    "small-business",
+    "data-classes",
+    "governance",
+    "subscriptions"
+  ],
+  "license": "MIT"
+}

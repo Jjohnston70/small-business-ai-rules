@@ -1,0 +1,2 @@
+date,decision,tool,what_it_produced,checked_against,final_call_by,single_source_or_confirmed,notes
+2026-09-10,Example: set delivery fee for new route,Claude,Suggested $45 to $60 range,Our last 12 months of route costs in the ledger,Owner,confirmed,Chose $50

@@ -1,0 +1,6 @@
+job,tool,account,data_class_allowed,output_goes,fallback,notes
+Research with sources,Perplexity or Claude with search,Work,Public,Read before use; check page date,Other search tool,
+Draft email or post or SOP,Claude or ChatGPT,Work,Internal,You send it,Other drafting tool,
+Summarize a document,Claude or NotebookLM,Work,Internal,Read before use,Other tool,
+Customer or financial or employee detail,Tool that passed the account checklist,Work,Confidential,You approve every use,None; wait,Decision-log row required
+Licensed feed or regulated record,No AI tool,none,Licensed,Stays in source system,None,Standing rule
